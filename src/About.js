@@ -22,11 +22,19 @@ const About = () => {
                         <div style={{ display: 'flex', flexDirection: 'column', flexWrap: 'wrap' }}>
                         <div className='aboutright-middle' data-aos="flip-down" data-aos-duration="3000">
                             <h4 data-aos="fade-left">Full Stack Developer</h4>
+<<<<<<< HEAD
                             <p data-aos="fade-right">A passionate Full Stack Developer with Entry Level
                                 experience in building responsive and user-friendly
                                 web Applications. My expertise lies in both 
                                 front-end and back-end technologies
                                 allowing me to create seameless solutions that
+=======
+                            <p data-aos="fade-right">A passionate Full Stack Developer with Entry Level<br></br>
+                                experience in building responsive and user-friendly<br></br>
+                                web Applications. My expertise lies in both <br></br>
+                                front-end and back-end technologies<br></br>
+                                allowing me to create seameless solutions that<br></br>
+>>>>>>> 71843d427b0f7d693037170cb096e2173f281cba
                                 deliver exceptional  user experience.</p>
                         </div>
                         <div className='aboutright-end'>
