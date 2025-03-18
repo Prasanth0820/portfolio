@@ -1,10 +1,7 @@
 import React from 'react'
-import shopping from "./skillimage/shooping.png"
-import fitness from "./skillimage/fitness.png"
 import bootstrapweb from "./skillimage/bootstrap website.png"
 import vook from "./skillimage/vook.png"
 import reactweb from "./skillimage/react website.png"
-import mouseweb from "./skillimage/mousewebsite.png"
 import sleft from "./skillimage/skill left.png"
 import rleft from "./skillimage/skill right.png"
 import link from './skillimage/link_24dp_000000_FILL0_wght400_GRAD0_opsz24.png'
@@ -19,6 +16,7 @@ import crud from './skillimage/Crud.png'
 import interior from './skillimage/interior.png'
 import chatapplication from './skillimage/Chatapplication.png'
 import mern from './skillimage/mern.png'
+import bassboom from './skillimage/bassboom.png'
 
 
 
@@ -97,7 +95,7 @@ function Works() {
                                     <img src={bootstrapweb} alt="mixed vegetable salad in a mason jar." />
                                 </div>
                                 <div class="card_content">
-                                    <h2 class="card_title">BOOTSTRAP</h2>
+                                    <h2 class="card_title">BOOTSTRAP, JAVASCRIPT</h2>
                                     <div class="card_text">
                                         <p>The Medical dashboard  provide the entire details about the patient which is created using the ,HTML ,Javascript
                                             and Bootstrap for styling.
@@ -120,7 +118,7 @@ function Works() {
                                     <img src={crud} alt="mixed vegetable salad in a mason jar." />
                                 </div>
                                 <div class="card_content">
-                                    <h2 class="card_title">CRUD</h2>
+                                    <h2 class="card_title">HTML,CSS & JAVASCRIPT</h2>
                                     <div class="card_text">
 
                                         <p>
@@ -141,10 +139,10 @@ function Works() {
                             data-aos-duration="1000">
                             <div class="card">
                                 <div class="card_image">
-                                    <img src={reactweb} alt="mixed vegetable salad in a mason jar." />
+                                    <img src={bassboom} alt="mixed vegetable salad in a mason jar." />
                                 </div>
                                 <div class="card_content">
-                                    <h2 class="card_title">REACT</h2>
+                                    <h2 class="card_title">REACT JS</h2>
                                     <div class="card_text">
                                         <p>
                                             BassBoom is here to cater to your every need. Join us today and discover why shopping has never been easier!
@@ -167,7 +165,7 @@ function Works() {
                                     <img src={chatapplication} alt="mixed vegetable salad in a mason jar." />
                                 </div>
                                 <div class="card_content">
-                                    <h2 class="card_title">CHAT APPLICATION</h2>
+                                    <h2 class="card_title">REACT JS</h2>
                                     <div class="card_text">
                                         <p>
                                             BassBoom is here to cater to your every need. Join us today and discover why shopping has never been easier!
@@ -236,7 +234,7 @@ function Works() {
                                     <img src={qrcode} alt="mixed vegetable salad in a mason jar." />
                                 </div>
                                 <div class="card_content">
-                                    <h2 class="card_title"> QR CODE GENERATER</h2>
+                                    <h2 class="card_title"> EXPRESS, NODEMON </h2>
                                     <div class="card_text">
                                         <p>
                                             A web application built with Express, EJS, Nodemon, QR package, and Axios, allowing users to generate QR codes instantly for various uses.
@@ -282,7 +280,7 @@ function Works() {
                                     <img src={WithData} alt="mixed vegetable salad in a mason jar." />
                                 </div>
                                 <div class="card_content">
-                                    <h2 class="card_title">WITHDATA</h2>
+                                    <h2 class="card_title">NODE JS , EXPRESS & MONGODB</h2>
                                     <div class="card_text">
                                         <p>
                                             A web application built with Express, EJS, Mongoose, Nodemon, and Axios, allowing users to submit data and view it dynamically on a separate page.
@@ -309,7 +307,7 @@ function Works() {
                                     <img src={WithoutData} alt="mixed vegetable salad in a mason jar." />
                                 </div>
                                 <div class="card_content">
-                                    <h2 class="card_title">WITHOUT DATA</h2>
+                                    <h2 class="card_title">NODE JS , EXPRESS & MONGODB</h2>
                                     <div class="card_text">
                                         <p>
                                             A web application built with Express, EJS, Mongoose, Nodemon, and Axios, where submitted data is stored in the database for efficient management and retrieval.
