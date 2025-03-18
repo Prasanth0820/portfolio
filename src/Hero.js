@@ -15,11 +15,7 @@ const Hero = () => {
     <div id='home' style={{ display: 'flex', flexWrap: 'wrap' }}>
 
 
-<<<<<<< HEAD
       <div className='bannercontent' data-aos="fade-up">
-=======
-      <div className='bannercontent'>
->>>>>>> 71843d427b0f7d693037170cb096e2173f281cba
         <p className='st'>HELLO I'M</p>
         <h1>  <BlurText
           text="PRASANTH"

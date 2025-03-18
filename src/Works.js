@@ -77,7 +77,6 @@ function Works() {
                                         </p>
                                     </div>
                                     <div className='workbutton3'>
-<<<<<<< HEAD
 
                                        <img src={link} alt=''></img>
                                        <a href='https://prasanth0820.github.io/vook_Speaker/' className='workbtn3' target='_blank'>View-Site</a>
@@ -85,12 +84,6 @@ function Works() {
                                         <img src={git} alt=''></img>
                                         <a href='https://github.com/Prasanth0820/vook_Speaker' className='workbtn3' target='_blank'>Git-Hub</a>
                                     
-=======
-                                        <img src={link} alt=''></img>
-                                        <a href='https://prasanth0820.github.io/vook_Speaker/' className='workbtn3' target='_blank'>View-Site</a>
-                                        <img src={git} alt=''></img>
-                                        <a href='https://github.com/Prasanth0820/vook_Speaker' className='workbtn' target='_blank'>Git-Hub</a>
->>>>>>> 71843d427b0f7d693037170cb096e2173f281cba
                                     </div>
 
                                 </div>
@@ -296,7 +289,6 @@ function Works() {
                                         </p>
                                     </div>
                                     <div className='workbutton'>
-<<<<<<< HEAD
                                         <div className='zx'>
                                         <img src={link} alt=''></img>
                                         <a href='https://multipge-withdata.onrender.com/' className='workbtn2'target='_blank'>View-Site</a>
@@ -305,12 +297,6 @@ function Works() {
                                        <img src={git} alt=''></img>
                                        <a href='' className='workbtn2'target='_blank'>Git-Hub</a>
                                        </div>
-=======
-                                        <img src={link} alt=''></img>
-                                        <a href='https://multipge-withdata.onrender.com/' className='workbtn'target='_blank'>View-Site</a>
-                                        <img src={git} alt=''></img>
-                                        <a href='' className='workbtn'target='_blank'>Git-Hub</a>
->>>>>>> 71843d427b0f7d693037170cb096e2173f281cba
                                     </div>
                                 </div>
                             </div>
