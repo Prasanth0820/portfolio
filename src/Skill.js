@@ -27,7 +27,7 @@ export const Skill = () => {
       <div className='skillsection'>
         <div className='stop'>
           <img src={sleft} className='skillleft' data-aos="flip-up"></img>
-          <h4 data-aos="flip-up">Skills Learned55</h4>
+          <h4 data-aos="flip-up">Skills Learned</h4>
           <img src={sright} className='skillright' data-aos="flip-down"></img>
         </div>
             <div className='fullskill'>
