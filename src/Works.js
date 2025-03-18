@@ -18,6 +18,7 @@ import firebasep from './skillimage/Fire_Base.png'
 import crud from './skillimage/Crud.png'
 import interior from './skillimage/interior.png'
 import chatapplication from './skillimage/Chatapplication.png'
+import mern from './skillimage/mern.png'
 
 
 
@@ -328,7 +329,7 @@ function Works() {
                             data-aos-duration="900">
                             <div class="card">
                                 <div class="card_image">
-                                    <img src={WithoutData} alt="mixed vegetable salad in a mason jar." />
+                                    <img src={mern} alt="mixed vegetable salad in a mason jar." />
                                 </div>
                                 <div class="card_content">
                                     <h2 class="card_title">MERN</h2>
