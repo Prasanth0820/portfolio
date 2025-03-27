@@ -6,6 +6,7 @@ import telegram from './skillimage/Telegram App green.png'
 import twitter from "./skillimage/Twitter green.png"
 import instaagram from './skillimage/Instagram Circle green.png'
 import emailjs from '@emailjs/browser';
+import Swal from 'sweetalert2'
 
 const Contact = () => {
     const form = useRef();
@@ -19,8 +20,13 @@ const Contact = () => {
         })
         .then(
           () => {
-            alert('SUCCESS!');
+            Swal.fire({
+              title: "Success!",
+              text: "Your message has been sent.",
+              icon: "success"            });
+              form.current.reset();
           },
+          
           (error) => {
             console.log('FAILED...', error.text);
           },

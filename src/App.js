@@ -10,6 +10,7 @@ import Contact from './Contact';
 import Footer from './Footer';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import swal from 'sweetalert2';
 
 import { useEffect } from 'react';
 function App() {
