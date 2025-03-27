@@ -39,9 +39,9 @@ const Contact = () => {
                 </div>
                 <div className='formdetails'>
                     <form ref={form} onSubmit={sendEmail}>
-                        <input placeholder='Name' className='nametag'data-aos="flip-down" data-aos-duration="3000" name="from_name"></input>
-                        <input placeholder='Mail' className='mailtag'data-aos="flip-down" data-aos-duration="3000" name="femail_id"></input> <br></br>
-                        <textarea placeholder='Message' className='messagetag'data-aos="flip-down"data-aos-duration="3000" name="message"></textarea><br></br>
+                        <input placeholder='Name' className='nametag'data-aos="flip-down" data-aos-duration="3000" name="from_name" required></input>
+                        <input placeholder='Mail' className='mailtag'data-aos="flip-down" data-aos-duration="3000" name="femail_id" required></input> <br></br>
+                        <textarea placeholder='Message' className='messagetag'data-aos="flip-down"data-aos-duration="3000" name="message" required></textarea><br></br>
 
                         <a href=''><button type='submit' className='btn'data-aos="flip-down"data-aos-duration="1400">Done</button> </a>
                        
