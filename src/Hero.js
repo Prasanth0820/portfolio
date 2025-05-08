@@ -30,7 +30,7 @@ const Hero = () => {
         <p className='en'>Crafting innovative solutions with passion and precision.<br></br>
           Driven by creativity, focused on results, and inspired by progress.<br></br>
           Let’s build something extraordinary together.</p>
-       <a href='#Contact'> <button className='hire'>Hire Me</button></a>
+        <a href='#contact'> <button className='hire'>Hire Me</button></a>
         <Downlode />
       </div>
       <div className='bannerimg' data-aos="fade-down" style={{ marginLeft: 'auto' }}>
